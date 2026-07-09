@@ -40,8 +40,7 @@ Designed a targeted, multi-page business intelligence dashboard tailored for sup
 
 ---
 
-## 📈 Power BI Dashboard
-*(Tip: Take a screenshot of your dashboard, upload it to this repository, and link it below!)*
+## 📈 Power BI Dashboard*
 ![Delhivery Dashboard](./Screenshot%202025-06-27%20224509.png)
 
 ---
